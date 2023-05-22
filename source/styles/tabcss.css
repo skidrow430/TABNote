@@ -1,0 +1,28 @@
+.tab-container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+.tab-row {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+}
+
+.tab-number {
+  flex: 0 0 30px;
+  text-align: center;
+}
+
+.tab-string {
+  flex: 0 0 40px;
+  font-weight: bold;
+}
+
+.tab-note {
+  flex: 1;
+  font-weight: bold;
+}
