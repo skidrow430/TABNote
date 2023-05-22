@@ -12,12 +12,18 @@
 * Общий стиль кода PEP8
 
 ## Технологии
-# Фронтенд
+### Frontend
 * HTML5
 * CSS
 * Bootstrap
 * PHP
 
-### Используемый планировщик задач: ЛидерТаск
-* https://app.leadertask.ru/project/f7315a2e-5183-42a0-a488-739086528bda
+### Backend
+* Denwer
+* PHP
+* MySQL
+
+## Способы обмена информацией
+### Используемый планировщик задач [GitHub](https://github.com/users/skidrow430/projects/1/views/1)
+
 
